@@ -8,6 +8,7 @@ logs/
 .classpath
 .project
 .metadata
+.factorypath
 bin/
 local.properties
 .settings/
