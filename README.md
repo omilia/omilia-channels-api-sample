@@ -21,3 +21,7 @@ mvnw.cmd clean install
 ```bash
 ./mvnw clean install
 ```
+
+### License
+
+Apache-2.0, See [LICENSE](LICENSE.md) file.
